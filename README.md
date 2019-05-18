@@ -1,4 +1,4 @@
-# GCDG-UG: Using ansible and packer to provision machines on Google cloud #
+# GCDG-UG: Using ansible and packer to provision machines on Google cloud - 19th Jan 2019 
 
 Requirements:
 Make sure you have the following packages installed.
